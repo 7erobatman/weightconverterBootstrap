@@ -16,7 +16,6 @@
   "bugs": {
     "url": "https://github.com/7erobatman/weightconverterBootstrap/issues"
   },
-  "homepage": "https://github.com/7erobatman/weightconverterBootstrap#readme",
   "dependencies": {
     "gh-pages": "^1.2.0"
   }
