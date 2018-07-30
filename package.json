@@ -1,0 +1,19 @@
+{
+  "name": "weightconverter",
+  "version": "1.0.0",
+  "description": "weight converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/7erobatman/weightconverterBootstrap.git"
+  },
+  "author": "Kumar Gourav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/7erobatman/weightconverterBootstrap/issues"
+  },
+  "homepage": "https://github.com/7erobatman/weightconverterBootstrap#readme"
+}
