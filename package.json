@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "weight converter",
   "main": "index.js",
-  "homepage": "https://7erobatman.github.io/weightconverter",
+  "homepage": "https://7erobatman.github.io/weightconverterBootstrap",
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
